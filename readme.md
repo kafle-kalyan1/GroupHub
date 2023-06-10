@@ -1,4 +1,4 @@
 # GroupHub
 
-![Alt Text](Grouphub.mp4)
+![Alt Text](Grouphub.gif)
 
