@@ -1,4 +1,4 @@
 # GroupHub
 
-![Alt Text](GroupHub.gif)
+![](https://github.com/kafle-kalyan1/GroupHub/blob/main/GroupHub.gif)
 
