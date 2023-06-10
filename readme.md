@@ -1,4 +1,4 @@
 # GroupHub
 
-![Alt Text](Grouphub.gif)
+![Alt Text](GroupHub.gif)
 
