@@ -1,4 +1,4 @@
 asgiref==3.5.2
-Django==3.2.16
+Django==3.2.20
 channels==3.0.4
 channels-redis==3.3.1
